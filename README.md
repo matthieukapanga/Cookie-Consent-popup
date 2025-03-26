@@ -5,7 +5,7 @@ A simple, responsive cookie consent popup built with HTML, CSS, and JavaScript.
 
 🚀 Live Demo
 
-Check out the live version here!
+Check out the live version here: https://matthieukapanga.github.io/Cookie-Consent-popup/
 
 🎯 Features
 
